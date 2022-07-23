@@ -4,7 +4,7 @@ import {errorMiddlewares} from "./ErrorMiddlewares.js";
 
 const mediaStorage = multer.diskStorage({
     destination(req, file,cb) {
-        cb(null, "media")
+        cb(null, path.resolve(__dirname, './media'))
     },
     filename(req, file,cb) {
         cb(null, Date.now() + file.originalname)
