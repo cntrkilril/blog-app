@@ -13,6 +13,12 @@
       <change afterPath="$PROJECT_DIR$/../client/app-client/src/service/AuthService.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../client/app-client/src/service/PostService.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../client/app-client/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/js/main.14873163.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/js/main.14873163.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/js/main.14873163.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +43,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PERSONAL_FILES\--------WORK\blog\server\public" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +63,7 @@
       <workItem from="1658570841049" duration="21000" />
       <workItem from="1658571414848" duration="11000" />
       <workItem from="1658571444343" duration="2740000" />
-      <workItem from="1658574239255" duration="378000" />
+      <workItem from="1658574239255" duration="3020000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1658571126075</created>
