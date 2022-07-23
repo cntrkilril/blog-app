@@ -28,7 +28,7 @@ app.use(cors(
     }
 ))
 app.use('/api', router)
-app.use('/media', express.static('./media'));
+app.use('/media', express.static('media'));
 
 
 
