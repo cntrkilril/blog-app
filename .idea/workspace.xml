@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../client/app-client/src/service/PostService.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../client/app-client/src/store/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/middlewares/FileMiddlewares.js" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/FileMiddlewares.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <workItem from="1658570841049" duration="21000" />
       <workItem from="1658571414848" duration="11000" />
       <workItem from="1658571444343" duration="2740000" />
-      <workItem from="1658574239255" duration="3746000" />
+      <workItem from="1658574239255" duration="3936000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1658571126075</created>

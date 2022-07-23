@@ -1,12 +1,13 @@
 import multer from "multer"
 import {ApiError} from "../exceptions/index.js";
-import {errorMiddlewares} from "./ErrorMiddlewares.js";
+import * as path from "path";
+import {__dirname} from "../index.js";
 
 const mediaStorage = multer.diskStorage({
-    destination(req, file,cb) {
+    destination(req, file, cb) {
         cb(null, path.resolve(__dirname, './media'))
     },
-    filename(req, file,cb) {
+    filename(req, file, cb) {
         cb(null, Date.now() + file.originalname)
     }
 })
