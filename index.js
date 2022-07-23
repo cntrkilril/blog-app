@@ -19,7 +19,7 @@ app.use(cors(
 app.use('/api', router)
 app.use('/media', express.static('./media'));
 
-sequelize.sync({force: true}).then(() => console.log("DB OK")).catch((e) => console.log(e))
+sequelize.sync().then(() => console.log("DB OK")).catch((e) => console.log(e))
 
 const start = async () => {
     try {
